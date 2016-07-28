@@ -1,0 +1,780 @@
+2016-06-22 19:58:39 Notice: Notice (8): Array to string conversion in [/var/www/html/deasoft/tmp/bake/Bake-Element-form-ctp.php, line 88]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - ROOT/tmp/bake/Bake-Element-form-ctp.php, line 88
+Bake\View\BakeView::_evaluate() - ROOT/vendor/cakephp/bake/src/View/BakeView.php, line 199
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::_renderElement() - CORE/src/View/View.php, line 1329
+Cake\View\View::element() - CORE/src/View/View.php, line 493
+include - ROOT/tmp/bake/add-ctp.php, line 16
+Bake\View\BakeView::_evaluate() - ROOT/vendor/cakephp/bake/src/View/BakeView.php, line 199
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Bake\View\BakeView::render() - ROOT/vendor/cakephp/bake/src/View/BakeView.php, line 136
+Bake\Shell\Task\BakeTemplateTask::generate() - ROOT/vendor/cakephp/bake/src/Shell/Task/BakeTemplateTask.php, line 89
+Bake\Shell\Task\TemplateTask::getContent() - ROOT/vendor/cakephp/bake/src/Shell/Task/TemplateTask.php, line 413
+Bake\Shell\Task\TemplateTask::main() - ROOT/vendor/cakephp/bake/src/Shell/Task/TemplateTask.php, line 151
+Bake\Shell\BakeShell::Bake\Shell\{closure}() - ROOT/vendor/cakephp/bake/src/Shell/BakeShell.php, line 252
+Cake\Collection\Collection::each() - CORE/src/Collection/CollectionTrait.php, line 51
+Bake\Shell\BakeShell::all() - ROOT/vendor/cakephp/bake/src/Shell/BakeShell.php, line 253
+Cake\Console\Shell::runCommand() - CORE/src/Console/Shell.php, line 444
+Cake\Console\ShellDispatcher::_dispatch() - CORE/src/Console/ShellDispatcher.php, line 217
+Cake\Console\ShellDispatcher::dispatch() - CORE/src/Console/ShellDispatcher.php, line 181
+Cake\Console\ShellDispatcher::run() - CORE/src/Console/ShellDispatcher.php, line 127
+[main] - ROOT/bin/cake.php, line 33
+
+
+
+2016-06-22 19:58:39 Notice: Notice (8): Array to string conversion in [/var/www/html/deasoft/tmp/bake/Bake-Element-form-ctp.php, line 88]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - ROOT/tmp/bake/Bake-Element-form-ctp.php, line 88
+Bake\View\BakeView::_evaluate() - ROOT/vendor/cakephp/bake/src/View/BakeView.php, line 199
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::_renderElement() - CORE/src/View/View.php, line 1329
+Cake\View\View::element() - CORE/src/View/View.php, line 493
+include - ROOT/tmp/bake/add-ctp.php, line 16
+Bake\View\BakeView::_evaluate() - ROOT/vendor/cakephp/bake/src/View/BakeView.php, line 199
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Bake\View\BakeView::render() - ROOT/vendor/cakephp/bake/src/View/BakeView.php, line 136
+Bake\Shell\Task\BakeTemplateTask::generate() - ROOT/vendor/cakephp/bake/src/Shell/Task/BakeTemplateTask.php, line 89
+Bake\Shell\Task\TemplateTask::getContent() - ROOT/vendor/cakephp/bake/src/Shell/Task/TemplateTask.php, line 413
+Bake\Shell\Task\TemplateTask::main() - ROOT/vendor/cakephp/bake/src/Shell/Task/TemplateTask.php, line 151
+Bake\Shell\BakeShell::Bake\Shell\{closure}() - ROOT/vendor/cakephp/bake/src/Shell/BakeShell.php, line 252
+Cake\Collection\Collection::each() - CORE/src/Collection/CollectionTrait.php, line 51
+Bake\Shell\BakeShell::all() - ROOT/vendor/cakephp/bake/src/Shell/BakeShell.php, line 253
+Cake\Console\Shell::runCommand() - CORE/src/Console/Shell.php, line 444
+Cake\Console\ShellDispatcher::_dispatch() - CORE/src/Console/ShellDispatcher.php, line 217
+Cake\Console\ShellDispatcher::dispatch() - CORE/src/Console/ShellDispatcher.php, line 181
+Cake\Console\ShellDispatcher::run() - CORE/src/Console/ShellDispatcher.php, line 127
+[main] - ROOT/bin/cake.php, line 33
+
+
+
+2016-06-22 19:58:39 Notice: Notice (8): Array to string conversion in [/var/www/html/deasoft/tmp/bake/Bake-Element-form-ctp.php, line 88]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - ROOT/tmp/bake/Bake-Element-form-ctp.php, line 88
+Bake\View\BakeView::_evaluate() - ROOT/vendor/cakephp/bake/src/View/BakeView.php, line 199
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::_renderElement() - CORE/src/View/View.php, line 1329
+Cake\View\View::element() - CORE/src/View/View.php, line 493
+include - ROOT/tmp/bake/add-ctp.php, line 16
+Bake\View\BakeView::_evaluate() - ROOT/vendor/cakephp/bake/src/View/BakeView.php, line 199
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Bake\View\BakeView::render() - ROOT/vendor/cakephp/bake/src/View/BakeView.php, line 136
+Bake\Shell\Task\BakeTemplateTask::generate() - ROOT/vendor/cakephp/bake/src/Shell/Task/BakeTemplateTask.php, line 89
+Bake\Shell\Task\TemplateTask::getContent() - ROOT/vendor/cakephp/bake/src/Shell/Task/TemplateTask.php, line 413
+Bake\Shell\Task\TemplateTask::main() - ROOT/vendor/cakephp/bake/src/Shell/Task/TemplateTask.php, line 151
+Bake\Shell\BakeShell::Bake\Shell\{closure}() - ROOT/vendor/cakephp/bake/src/Shell/BakeShell.php, line 252
+Cake\Collection\Collection::each() - CORE/src/Collection/CollectionTrait.php, line 51
+Bake\Shell\BakeShell::all() - ROOT/vendor/cakephp/bake/src/Shell/BakeShell.php, line 253
+Cake\Console\Shell::runCommand() - CORE/src/Console/Shell.php, line 444
+Cake\Console\ShellDispatcher::_dispatch() - CORE/src/Console/ShellDispatcher.php, line 217
+Cake\Console\ShellDispatcher::dispatch() - CORE/src/Console/ShellDispatcher.php, line 181
+Cake\Console\ShellDispatcher::run() - CORE/src/Console/ShellDispatcher.php, line 127
+[main] - ROOT/bin/cake.php, line 33
+
+
+
+2016-06-22 19:58:39 Notice: Notice (8): Array to string conversion in [/var/www/html/deasoft/tmp/bake/Bake-Element-form-ctp.php, line 88]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - ROOT/tmp/bake/Bake-Element-form-ctp.php, line 88
+Bake\View\BakeView::_evaluate() - ROOT/vendor/cakephp/bake/src/View/BakeView.php, line 199
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::_renderElement() - CORE/src/View/View.php, line 1329
+Cake\View\View::element() - CORE/src/View/View.php, line 493
+include - ROOT/tmp/bake/add-ctp.php, line 16
+Bake\View\BakeView::_evaluate() - ROOT/vendor/cakephp/bake/src/View/BakeView.php, line 199
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Bake\View\BakeView::render() - ROOT/vendor/cakephp/bake/src/View/BakeView.php, line 136
+Bake\Shell\Task\BakeTemplateTask::generate() - ROOT/vendor/cakephp/bake/src/Shell/Task/BakeTemplateTask.php, line 89
+Bake\Shell\Task\TemplateTask::getContent() - ROOT/vendor/cakephp/bake/src/Shell/Task/TemplateTask.php, line 413
+Bake\Shell\Task\TemplateTask::main() - ROOT/vendor/cakephp/bake/src/Shell/Task/TemplateTask.php, line 151
+Bake\Shell\BakeShell::Bake\Shell\{closure}() - ROOT/vendor/cakephp/bake/src/Shell/BakeShell.php, line 252
+Cake\Collection\Collection::each() - CORE/src/Collection/CollectionTrait.php, line 51
+Bake\Shell\BakeShell::all() - ROOT/vendor/cakephp/bake/src/Shell/BakeShell.php, line 253
+Cake\Console\Shell::runCommand() - CORE/src/Console/Shell.php, line 444
+Cake\Console\ShellDispatcher::_dispatch() - CORE/src/Console/ShellDispatcher.php, line 217
+Cake\Console\ShellDispatcher::dispatch() - CORE/src/Console/ShellDispatcher.php, line 181
+Cake\Console\ShellDispatcher::run() - CORE/src/Console/ShellDispatcher.php, line 127
+[main] - ROOT/bin/cake.php, line 33
+
+
+
+2016-06-22 19:58:39 Notice: Notice (8): Array to string conversion in [/var/www/html/deasoft/tmp/bake/Bake-Element-form-ctp.php, line 88]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - ROOT/tmp/bake/Bake-Element-form-ctp.php, line 88
+Bake\View\BakeView::_evaluate() - ROOT/vendor/cakephp/bake/src/View/BakeView.php, line 199
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::_renderElement() - CORE/src/View/View.php, line 1329
+Cake\View\View::element() - CORE/src/View/View.php, line 493
+include - ROOT/tmp/bake/edit-ctp.php, line 16
+Bake\View\BakeView::_evaluate() - ROOT/vendor/cakephp/bake/src/View/BakeView.php, line 199
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Bake\View\BakeView::render() - ROOT/vendor/cakephp/bake/src/View/BakeView.php, line 136
+Bake\Shell\Task\BakeTemplateTask::generate() - ROOT/vendor/cakephp/bake/src/Shell/Task/BakeTemplateTask.php, line 89
+Bake\Shell\Task\TemplateTask::getContent() - ROOT/vendor/cakephp/bake/src/Shell/Task/TemplateTask.php, line 413
+Bake\Shell\Task\TemplateTask::main() - ROOT/vendor/cakephp/bake/src/Shell/Task/TemplateTask.php, line 151
+Bake\Shell\BakeShell::Bake\Shell\{closure}() - ROOT/vendor/cakephp/bake/src/Shell/BakeShell.php, line 252
+Cake\Collection\Collection::each() - CORE/src/Collection/CollectionTrait.php, line 51
+Bake\Shell\BakeShell::all() - ROOT/vendor/cakephp/bake/src/Shell/BakeShell.php, line 253
+Cake\Console\Shell::runCommand() - CORE/src/Console/Shell.php, line 444
+Cake\Console\ShellDispatcher::_dispatch() - CORE/src/Console/ShellDispatcher.php, line 217
+Cake\Console\ShellDispatcher::dispatch() - CORE/src/Console/ShellDispatcher.php, line 181
+Cake\Console\ShellDispatcher::run() - CORE/src/Console/ShellDispatcher.php, line 127
+[main] - ROOT/bin/cake.php, line 33
+
+
+
+2016-06-22 19:58:39 Notice: Notice (8): Array to string conversion in [/var/www/html/deasoft/tmp/bake/Bake-Element-form-ctp.php, line 88]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - ROOT/tmp/bake/Bake-Element-form-ctp.php, line 88
+Bake\View\BakeView::_evaluate() - ROOT/vendor/cakephp/bake/src/View/BakeView.php, line 199
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::_renderElement() - CORE/src/View/View.php, line 1329
+Cake\View\View::element() - CORE/src/View/View.php, line 493
+include - ROOT/tmp/bake/edit-ctp.php, line 16
+Bake\View\BakeView::_evaluate() - ROOT/vendor/cakephp/bake/src/View/BakeView.php, line 199
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Bake\View\BakeView::render() - ROOT/vendor/cakephp/bake/src/View/BakeView.php, line 136
+Bake\Shell\Task\BakeTemplateTask::generate() - ROOT/vendor/cakephp/bake/src/Shell/Task/BakeTemplateTask.php, line 89
+Bake\Shell\Task\TemplateTask::getContent() - ROOT/vendor/cakephp/bake/src/Shell/Task/TemplateTask.php, line 413
+Bake\Shell\Task\TemplateTask::main() - ROOT/vendor/cakephp/bake/src/Shell/Task/TemplateTask.php, line 151
+Bake\Shell\BakeShell::Bake\Shell\{closure}() - ROOT/vendor/cakephp/bake/src/Shell/BakeShell.php, line 252
+Cake\Collection\Collection::each() - CORE/src/Collection/CollectionTrait.php, line 51
+Bake\Shell\BakeShell::all() - ROOT/vendor/cakephp/bake/src/Shell/BakeShell.php, line 253
+Cake\Console\Shell::runCommand() - CORE/src/Console/Shell.php, line 444
+Cake\Console\ShellDispatcher::_dispatch() - CORE/src/Console/ShellDispatcher.php, line 217
+Cake\Console\ShellDispatcher::dispatch() - CORE/src/Console/ShellDispatcher.php, line 181
+Cake\Console\ShellDispatcher::run() - CORE/src/Console/ShellDispatcher.php, line 127
+[main] - ROOT/bin/cake.php, line 33
+
+
+
+2016-06-22 19:58:39 Notice: Notice (8): Array to string conversion in [/var/www/html/deasoft/tmp/bake/Bake-Element-form-ctp.php, line 88]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - ROOT/tmp/bake/Bake-Element-form-ctp.php, line 88
+Bake\View\BakeView::_evaluate() - ROOT/vendor/cakephp/bake/src/View/BakeView.php, line 199
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::_renderElement() - CORE/src/View/View.php, line 1329
+Cake\View\View::element() - CORE/src/View/View.php, line 493
+include - ROOT/tmp/bake/edit-ctp.php, line 16
+Bake\View\BakeView::_evaluate() - ROOT/vendor/cakephp/bake/src/View/BakeView.php, line 199
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Bake\View\BakeView::render() - ROOT/vendor/cakephp/bake/src/View/BakeView.php, line 136
+Bake\Shell\Task\BakeTemplateTask::generate() - ROOT/vendor/cakephp/bake/src/Shell/Task/BakeTemplateTask.php, line 89
+Bake\Shell\Task\TemplateTask::getContent() - ROOT/vendor/cakephp/bake/src/Shell/Task/TemplateTask.php, line 413
+Bake\Shell\Task\TemplateTask::main() - ROOT/vendor/cakephp/bake/src/Shell/Task/TemplateTask.php, line 151
+Bake\Shell\BakeShell::Bake\Shell\{closure}() - ROOT/vendor/cakephp/bake/src/Shell/BakeShell.php, line 252
+Cake\Collection\Collection::each() - CORE/src/Collection/CollectionTrait.php, line 51
+Bake\Shell\BakeShell::all() - ROOT/vendor/cakephp/bake/src/Shell/BakeShell.php, line 253
+Cake\Console\Shell::runCommand() - CORE/src/Console/Shell.php, line 444
+Cake\Console\ShellDispatcher::_dispatch() - CORE/src/Console/ShellDispatcher.php, line 217
+Cake\Console\ShellDispatcher::dispatch() - CORE/src/Console/ShellDispatcher.php, line 181
+Cake\Console\ShellDispatcher::run() - CORE/src/Console/ShellDispatcher.php, line 127
+[main] - ROOT/bin/cake.php, line 33
+
+
+
+2016-06-22 19:58:39 Notice: Notice (8): Array to string conversion in [/var/www/html/deasoft/tmp/bake/Bake-Element-form-ctp.php, line 88]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - ROOT/tmp/bake/Bake-Element-form-ctp.php, line 88
+Bake\View\BakeView::_evaluate() - ROOT/vendor/cakephp/bake/src/View/BakeView.php, line 199
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::_renderElement() - CORE/src/View/View.php, line 1329
+Cake\View\View::element() - CORE/src/View/View.php, line 493
+include - ROOT/tmp/bake/edit-ctp.php, line 16
+Bake\View\BakeView::_evaluate() - ROOT/vendor/cakephp/bake/src/View/BakeView.php, line 199
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Bake\View\BakeView::render() - ROOT/vendor/cakephp/bake/src/View/BakeView.php, line 136
+Bake\Shell\Task\BakeTemplateTask::generate() - ROOT/vendor/cakephp/bake/src/Shell/Task/BakeTemplateTask.php, line 89
+Bake\Shell\Task\TemplateTask::getContent() - ROOT/vendor/cakephp/bake/src/Shell/Task/TemplateTask.php, line 413
+Bake\Shell\Task\TemplateTask::main() - ROOT/vendor/cakephp/bake/src/Shell/Task/TemplateTask.php, line 151
+Bake\Shell\BakeShell::Bake\Shell\{closure}() - ROOT/vendor/cakephp/bake/src/Shell/BakeShell.php, line 252
+Cake\Collection\Collection::each() - CORE/src/Collection/CollectionTrait.php, line 51
+Bake\Shell\BakeShell::all() - ROOT/vendor/cakephp/bake/src/Shell/BakeShell.php, line 253
+Cake\Console\Shell::runCommand() - CORE/src/Console/Shell.php, line 444
+Cake\Console\ShellDispatcher::_dispatch() - CORE/src/Console/ShellDispatcher.php, line 217
+Cake\Console\ShellDispatcher::dispatch() - CORE/src/Console/ShellDispatcher.php, line 181
+Cake\Console\ShellDispatcher::run() - CORE/src/Console/ShellDispatcher.php, line 127
+[main] - ROOT/bin/cake.php, line 33
+
+
+
+2016-06-22 19:58:48 Notice: Notice (8): Array to string conversion in [/var/www/html/deasoft/tmp/bake/Bake-Element-form-ctp.php, line 88]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - ROOT/tmp/bake/Bake-Element-form-ctp.php, line 88
+Bake\View\BakeView::_evaluate() - ROOT/vendor/cakephp/bake/src/View/BakeView.php, line 199
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::_renderElement() - CORE/src/View/View.php, line 1329
+Cake\View\View::element() - CORE/src/View/View.php, line 493
+include - ROOT/tmp/bake/add-ctp.php, line 16
+Bake\View\BakeView::_evaluate() - ROOT/vendor/cakephp/bake/src/View/BakeView.php, line 199
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Bake\View\BakeView::render() - ROOT/vendor/cakephp/bake/src/View/BakeView.php, line 136
+Bake\Shell\Task\BakeTemplateTask::generate() - ROOT/vendor/cakephp/bake/src/Shell/Task/BakeTemplateTask.php, line 89
+Bake\Shell\Task\TemplateTask::getContent() - ROOT/vendor/cakephp/bake/src/Shell/Task/TemplateTask.php, line 413
+Bake\Shell\Task\TemplateTask::main() - ROOT/vendor/cakephp/bake/src/Shell/Task/TemplateTask.php, line 151
+Bake\Shell\BakeShell::Bake\Shell\{closure}() - ROOT/vendor/cakephp/bake/src/Shell/BakeShell.php, line 252
+Cake\Collection\Collection::each() - CORE/src/Collection/CollectionTrait.php, line 51
+Bake\Shell\BakeShell::all() - ROOT/vendor/cakephp/bake/src/Shell/BakeShell.php, line 253
+Cake\Console\Shell::runCommand() - CORE/src/Console/Shell.php, line 444
+Cake\Console\ShellDispatcher::_dispatch() - CORE/src/Console/ShellDispatcher.php, line 217
+Cake\Console\ShellDispatcher::dispatch() - CORE/src/Console/ShellDispatcher.php, line 181
+Cake\Console\ShellDispatcher::run() - CORE/src/Console/ShellDispatcher.php, line 127
+[main] - ROOT/bin/cake.php, line 33
+
+
+
+2016-06-22 19:58:48 Notice: Notice (8): Array to string conversion in [/var/www/html/deasoft/tmp/bake/Bake-Element-form-ctp.php, line 88]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - ROOT/tmp/bake/Bake-Element-form-ctp.php, line 88
+Bake\View\BakeView::_evaluate() - ROOT/vendor/cakephp/bake/src/View/BakeView.php, line 199
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::_renderElement() - CORE/src/View/View.php, line 1329
+Cake\View\View::element() - CORE/src/View/View.php, line 493
+include - ROOT/tmp/bake/add-ctp.php, line 16
+Bake\View\BakeView::_evaluate() - ROOT/vendor/cakephp/bake/src/View/BakeView.php, line 199
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Bake\View\BakeView::render() - ROOT/vendor/cakephp/bake/src/View/BakeView.php, line 136
+Bake\Shell\Task\BakeTemplateTask::generate() - ROOT/vendor/cakephp/bake/src/Shell/Task/BakeTemplateTask.php, line 89
+Bake\Shell\Task\TemplateTask::getContent() - ROOT/vendor/cakephp/bake/src/Shell/Task/TemplateTask.php, line 413
+Bake\Shell\Task\TemplateTask::main() - ROOT/vendor/cakephp/bake/src/Shell/Task/TemplateTask.php, line 151
+Bake\Shell\BakeShell::Bake\Shell\{closure}() - ROOT/vendor/cakephp/bake/src/Shell/BakeShell.php, line 252
+Cake\Collection\Collection::each() - CORE/src/Collection/CollectionTrait.php, line 51
+Bake\Shell\BakeShell::all() - ROOT/vendor/cakephp/bake/src/Shell/BakeShell.php, line 253
+Cake\Console\Shell::runCommand() - CORE/src/Console/Shell.php, line 444
+Cake\Console\ShellDispatcher::_dispatch() - CORE/src/Console/ShellDispatcher.php, line 217
+Cake\Console\ShellDispatcher::dispatch() - CORE/src/Console/ShellDispatcher.php, line 181
+Cake\Console\ShellDispatcher::run() - CORE/src/Console/ShellDispatcher.php, line 127
+[main] - ROOT/bin/cake.php, line 33
+
+
+
+2016-06-22 19:58:48 Notice: Notice (8): Array to string conversion in [/var/www/html/deasoft/tmp/bake/Bake-Element-form-ctp.php, line 88]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - ROOT/tmp/bake/Bake-Element-form-ctp.php, line 88
+Bake\View\BakeView::_evaluate() - ROOT/vendor/cakephp/bake/src/View/BakeView.php, line 199
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::_renderElement() - CORE/src/View/View.php, line 1329
+Cake\View\View::element() - CORE/src/View/View.php, line 493
+include - ROOT/tmp/bake/add-ctp.php, line 16
+Bake\View\BakeView::_evaluate() - ROOT/vendor/cakephp/bake/src/View/BakeView.php, line 199
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Bake\View\BakeView::render() - ROOT/vendor/cakephp/bake/src/View/BakeView.php, line 136
+Bake\Shell\Task\BakeTemplateTask::generate() - ROOT/vendor/cakephp/bake/src/Shell/Task/BakeTemplateTask.php, line 89
+Bake\Shell\Task\TemplateTask::getContent() - ROOT/vendor/cakephp/bake/src/Shell/Task/TemplateTask.php, line 413
+Bake\Shell\Task\TemplateTask::main() - ROOT/vendor/cakephp/bake/src/Shell/Task/TemplateTask.php, line 151
+Bake\Shell\BakeShell::Bake\Shell\{closure}() - ROOT/vendor/cakephp/bake/src/Shell/BakeShell.php, line 252
+Cake\Collection\Collection::each() - CORE/src/Collection/CollectionTrait.php, line 51
+Bake\Shell\BakeShell::all() - ROOT/vendor/cakephp/bake/src/Shell/BakeShell.php, line 253
+Cake\Console\Shell::runCommand() - CORE/src/Console/Shell.php, line 444
+Cake\Console\ShellDispatcher::_dispatch() - CORE/src/Console/ShellDispatcher.php, line 217
+Cake\Console\ShellDispatcher::dispatch() - CORE/src/Console/ShellDispatcher.php, line 181
+Cake\Console\ShellDispatcher::run() - CORE/src/Console/ShellDispatcher.php, line 127
+[main] - ROOT/bin/cake.php, line 33
+
+
+
+2016-06-22 19:58:48 Notice: Notice (8): Array to string conversion in [/var/www/html/deasoft/tmp/bake/Bake-Element-form-ctp.php, line 88]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - ROOT/tmp/bake/Bake-Element-form-ctp.php, line 88
+Bake\View\BakeView::_evaluate() - ROOT/vendor/cakephp/bake/src/View/BakeView.php, line 199
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::_renderElement() - CORE/src/View/View.php, line 1329
+Cake\View\View::element() - CORE/src/View/View.php, line 493
+include - ROOT/tmp/bake/add-ctp.php, line 16
+Bake\View\BakeView::_evaluate() - ROOT/vendor/cakephp/bake/src/View/BakeView.php, line 199
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Bake\View\BakeView::render() - ROOT/vendor/cakephp/bake/src/View/BakeView.php, line 136
+Bake\Shell\Task\BakeTemplateTask::generate() - ROOT/vendor/cakephp/bake/src/Shell/Task/BakeTemplateTask.php, line 89
+Bake\Shell\Task\TemplateTask::getContent() - ROOT/vendor/cakephp/bake/src/Shell/Task/TemplateTask.php, line 413
+Bake\Shell\Task\TemplateTask::main() - ROOT/vendor/cakephp/bake/src/Shell/Task/TemplateTask.php, line 151
+Bake\Shell\BakeShell::Bake\Shell\{closure}() - ROOT/vendor/cakephp/bake/src/Shell/BakeShell.php, line 252
+Cake\Collection\Collection::each() - CORE/src/Collection/CollectionTrait.php, line 51
+Bake\Shell\BakeShell::all() - ROOT/vendor/cakephp/bake/src/Shell/BakeShell.php, line 253
+Cake\Console\Shell::runCommand() - CORE/src/Console/Shell.php, line 444
+Cake\Console\ShellDispatcher::_dispatch() - CORE/src/Console/ShellDispatcher.php, line 217
+Cake\Console\ShellDispatcher::dispatch() - CORE/src/Console/ShellDispatcher.php, line 181
+Cake\Console\ShellDispatcher::run() - CORE/src/Console/ShellDispatcher.php, line 127
+[main] - ROOT/bin/cake.php, line 33
+
+
+
+2016-06-22 19:58:48 Notice: Notice (8): Array to string conversion in [/var/www/html/deasoft/tmp/bake/Bake-Element-form-ctp.php, line 88]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - ROOT/tmp/bake/Bake-Element-form-ctp.php, line 88
+Bake\View\BakeView::_evaluate() - ROOT/vendor/cakephp/bake/src/View/BakeView.php, line 199
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::_renderElement() - CORE/src/View/View.php, line 1329
+Cake\View\View::element() - CORE/src/View/View.php, line 493
+include - ROOT/tmp/bake/edit-ctp.php, line 16
+Bake\View\BakeView::_evaluate() - ROOT/vendor/cakephp/bake/src/View/BakeView.php, line 199
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Bake\View\BakeView::render() - ROOT/vendor/cakephp/bake/src/View/BakeView.php, line 136
+Bake\Shell\Task\BakeTemplateTask::generate() - ROOT/vendor/cakephp/bake/src/Shell/Task/BakeTemplateTask.php, line 89
+Bake\Shell\Task\TemplateTask::getContent() - ROOT/vendor/cakephp/bake/src/Shell/Task/TemplateTask.php, line 413
+Bake\Shell\Task\TemplateTask::main() - ROOT/vendor/cakephp/bake/src/Shell/Task/TemplateTask.php, line 151
+Bake\Shell\BakeShell::Bake\Shell\{closure}() - ROOT/vendor/cakephp/bake/src/Shell/BakeShell.php, line 252
+Cake\Collection\Collection::each() - CORE/src/Collection/CollectionTrait.php, line 51
+Bake\Shell\BakeShell::all() - ROOT/vendor/cakephp/bake/src/Shell/BakeShell.php, line 253
+Cake\Console\Shell::runCommand() - CORE/src/Console/Shell.php, line 444
+Cake\Console\ShellDispatcher::_dispatch() - CORE/src/Console/ShellDispatcher.php, line 217
+Cake\Console\ShellDispatcher::dispatch() - CORE/src/Console/ShellDispatcher.php, line 181
+Cake\Console\ShellDispatcher::run() - CORE/src/Console/ShellDispatcher.php, line 127
+[main] - ROOT/bin/cake.php, line 33
+
+
+
+2016-06-22 19:58:48 Notice: Notice (8): Array to string conversion in [/var/www/html/deasoft/tmp/bake/Bake-Element-form-ctp.php, line 88]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - ROOT/tmp/bake/Bake-Element-form-ctp.php, line 88
+Bake\View\BakeView::_evaluate() - ROOT/vendor/cakephp/bake/src/View/BakeView.php, line 199
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::_renderElement() - CORE/src/View/View.php, line 1329
+Cake\View\View::element() - CORE/src/View/View.php, line 493
+include - ROOT/tmp/bake/edit-ctp.php, line 16
+Bake\View\BakeView::_evaluate() - ROOT/vendor/cakephp/bake/src/View/BakeView.php, line 199
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Bake\View\BakeView::render() - ROOT/vendor/cakephp/bake/src/View/BakeView.php, line 136
+Bake\Shell\Task\BakeTemplateTask::generate() - ROOT/vendor/cakephp/bake/src/Shell/Task/BakeTemplateTask.php, line 89
+Bake\Shell\Task\TemplateTask::getContent() - ROOT/vendor/cakephp/bake/src/Shell/Task/TemplateTask.php, line 413
+Bake\Shell\Task\TemplateTask::main() - ROOT/vendor/cakephp/bake/src/Shell/Task/TemplateTask.php, line 151
+Bake\Shell\BakeShell::Bake\Shell\{closure}() - ROOT/vendor/cakephp/bake/src/Shell/BakeShell.php, line 252
+Cake\Collection\Collection::each() - CORE/src/Collection/CollectionTrait.php, line 51
+Bake\Shell\BakeShell::all() - ROOT/vendor/cakephp/bake/src/Shell/BakeShell.php, line 253
+Cake\Console\Shell::runCommand() - CORE/src/Console/Shell.php, line 444
+Cake\Console\ShellDispatcher::_dispatch() - CORE/src/Console/ShellDispatcher.php, line 217
+Cake\Console\ShellDispatcher::dispatch() - CORE/src/Console/ShellDispatcher.php, line 181
+Cake\Console\ShellDispatcher::run() - CORE/src/Console/ShellDispatcher.php, line 127
+[main] - ROOT/bin/cake.php, line 33
+
+
+
+2016-06-22 19:58:48 Notice: Notice (8): Array to string conversion in [/var/www/html/deasoft/tmp/bake/Bake-Element-form-ctp.php, line 88]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - ROOT/tmp/bake/Bake-Element-form-ctp.php, line 88
+Bake\View\BakeView::_evaluate() - ROOT/vendor/cakephp/bake/src/View/BakeView.php, line 199
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::_renderElement() - CORE/src/View/View.php, line 1329
+Cake\View\View::element() - CORE/src/View/View.php, line 493
+include - ROOT/tmp/bake/edit-ctp.php, line 16
+Bake\View\BakeView::_evaluate() - ROOT/vendor/cakephp/bake/src/View/BakeView.php, line 199
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Bake\View\BakeView::render() - ROOT/vendor/cakephp/bake/src/View/BakeView.php, line 136
+Bake\Shell\Task\BakeTemplateTask::generate() - ROOT/vendor/cakephp/bake/src/Shell/Task/BakeTemplateTask.php, line 89
+Bake\Shell\Task\TemplateTask::getContent() - ROOT/vendor/cakephp/bake/src/Shell/Task/TemplateTask.php, line 413
+Bake\Shell\Task\TemplateTask::main() - ROOT/vendor/cakephp/bake/src/Shell/Task/TemplateTask.php, line 151
+Bake\Shell\BakeShell::Bake\Shell\{closure}() - ROOT/vendor/cakephp/bake/src/Shell/BakeShell.php, line 252
+Cake\Collection\Collection::each() - CORE/src/Collection/CollectionTrait.php, line 51
+Bake\Shell\BakeShell::all() - ROOT/vendor/cakephp/bake/src/Shell/BakeShell.php, line 253
+Cake\Console\Shell::runCommand() - CORE/src/Console/Shell.php, line 444
+Cake\Console\ShellDispatcher::_dispatch() - CORE/src/Console/ShellDispatcher.php, line 217
+Cake\Console\ShellDispatcher::dispatch() - CORE/src/Console/ShellDispatcher.php, line 181
+Cake\Console\ShellDispatcher::run() - CORE/src/Console/ShellDispatcher.php, line 127
+[main] - ROOT/bin/cake.php, line 33
+
+
+
+2016-06-22 19:58:48 Notice: Notice (8): Array to string conversion in [/var/www/html/deasoft/tmp/bake/Bake-Element-form-ctp.php, line 88]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - ROOT/tmp/bake/Bake-Element-form-ctp.php, line 88
+Bake\View\BakeView::_evaluate() - ROOT/vendor/cakephp/bake/src/View/BakeView.php, line 199
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::_renderElement() - CORE/src/View/View.php, line 1329
+Cake\View\View::element() - CORE/src/View/View.php, line 493
+include - ROOT/tmp/bake/edit-ctp.php, line 16
+Bake\View\BakeView::_evaluate() - ROOT/vendor/cakephp/bake/src/View/BakeView.php, line 199
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Bake\View\BakeView::render() - ROOT/vendor/cakephp/bake/src/View/BakeView.php, line 136
+Bake\Shell\Task\BakeTemplateTask::generate() - ROOT/vendor/cakephp/bake/src/Shell/Task/BakeTemplateTask.php, line 89
+Bake\Shell\Task\TemplateTask::getContent() - ROOT/vendor/cakephp/bake/src/Shell/Task/TemplateTask.php, line 413
+Bake\Shell\Task\TemplateTask::main() - ROOT/vendor/cakephp/bake/src/Shell/Task/TemplateTask.php, line 151
+Bake\Shell\BakeShell::Bake\Shell\{closure}() - ROOT/vendor/cakephp/bake/src/Shell/BakeShell.php, line 252
+Cake\Collection\Collection::each() - CORE/src/Collection/CollectionTrait.php, line 51
+Bake\Shell\BakeShell::all() - ROOT/vendor/cakephp/bake/src/Shell/BakeShell.php, line 253
+Cake\Console\Shell::runCommand() - CORE/src/Console/Shell.php, line 444
+Cake\Console\ShellDispatcher::_dispatch() - CORE/src/Console/ShellDispatcher.php, line 217
+Cake\Console\ShellDispatcher::dispatch() - CORE/src/Console/ShellDispatcher.php, line 181
+Cake\Console\ShellDispatcher::run() - CORE/src/Console/ShellDispatcher.php, line 127
+[main] - ROOT/bin/cake.php, line 33
+
+
+
+2016-06-22 20:07:56 Notice: Notice (8): Undefined variable: details in [/var/www/html/deasoft/tmp/bake/Bake-Element-form-ctp.php, line 39]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - ROOT/tmp/bake/Bake-Element-form-ctp.php, line 39
+Bake\View\BakeView::_evaluate() - ROOT/vendor/cakephp/bake/src/View/BakeView.php, line 199
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::_renderElement() - CORE/src/View/View.php, line 1329
+Cake\View\View::element() - CORE/src/View/View.php, line 493
+include - ROOT/tmp/bake/add-ctp.php, line 16
+Bake\View\BakeView::_evaluate() - ROOT/vendor/cakephp/bake/src/View/BakeView.php, line 199
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Bake\View\BakeView::render() - ROOT/vendor/cakephp/bake/src/View/BakeView.php, line 136
+Bake\Shell\Task\BakeTemplateTask::generate() - ROOT/vendor/cakephp/bake/src/Shell/Task/BakeTemplateTask.php, line 89
+Bake\Shell\Task\TemplateTask::getContent() - ROOT/vendor/cakephp/bake/src/Shell/Task/TemplateTask.php, line 413
+Bake\Shell\Task\TemplateTask::main() - ROOT/vendor/cakephp/bake/src/Shell/Task/TemplateTask.php, line 151
+Bake\Shell\BakeShell::Bake\Shell\{closure}() - ROOT/vendor/cakephp/bake/src/Shell/BakeShell.php, line 252
+Cake\Collection\Collection::each() - CORE/src/Collection/CollectionTrait.php, line 51
+Bake\Shell\BakeShell::all() - ROOT/vendor/cakephp/bake/src/Shell/BakeShell.php, line 253
+Cake\Console\Shell::runCommand() - CORE/src/Console/Shell.php, line 444
+Cake\Console\ShellDispatcher::_dispatch() - CORE/src/Console/ShellDispatcher.php, line 217
+Cake\Console\ShellDispatcher::dispatch() - CORE/src/Console/ShellDispatcher.php, line 181
+Cake\Console\ShellDispatcher::run() - CORE/src/Console/ShellDispatcher.php, line 127
+[main] - ROOT/bin/cake.php, line 33
+
+
+
+2016-06-22 20:07:56 Notice: Notice (8): Undefined variable: alias in [/var/www/html/deasoft/tmp/bake/Bake-Element-form-ctp.php, line 40]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - ROOT/tmp/bake/Bake-Element-form-ctp.php, line 40
+Bake\View\BakeView::_evaluate() - ROOT/vendor/cakephp/bake/src/View/BakeView.php, line 199
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::_renderElement() - CORE/src/View/View.php, line 1329
+Cake\View\View::element() - CORE/src/View/View.php, line 493
+include - ROOT/tmp/bake/add-ctp.php, line 16
+Bake\View\BakeView::_evaluate() - ROOT/vendor/cakephp/bake/src/View/BakeView.php, line 199
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Bake\View\BakeView::render() - ROOT/vendor/cakephp/bake/src/View/BakeView.php, line 136
+Bake\Shell\Task\BakeTemplateTask::generate() - ROOT/vendor/cakephp/bake/src/Shell/Task/BakeTemplateTask.php, line 89
+Bake\Shell\Task\TemplateTask::getContent() - ROOT/vendor/cakephp/bake/src/Shell/Task/TemplateTask.php, line 413
+Bake\Shell\Task\TemplateTask::main() - ROOT/vendor/cakephp/bake/src/Shell/Task/TemplateTask.php, line 151
+Bake\Shell\BakeShell::Bake\Shell\{closure}() - ROOT/vendor/cakephp/bake/src/Shell/BakeShell.php, line 252
+Cake\Collection\Collection::each() - CORE/src/Collection/CollectionTrait.php, line 51
+Bake\Shell\BakeShell::all() - ROOT/vendor/cakephp/bake/src/Shell/BakeShell.php, line 253
+Cake\Console\Shell::runCommand() - CORE/src/Console/Shell.php, line 444
+Cake\Console\ShellDispatcher::_dispatch() - CORE/src/Console/ShellDispatcher.php, line 217
+Cake\Console\ShellDispatcher::dispatch() - CORE/src/Console/ShellDispatcher.php, line 181
+Cake\Console\ShellDispatcher::run() - CORE/src/Console/ShellDispatcher.php, line 127
+[main] - ROOT/bin/cake.php, line 33
+
+
+
+2016-06-22 20:07:56 Notice: Notice (8): Undefined variable: details in [/var/www/html/deasoft/tmp/bake/Bake-Element-form-ctp.php, line 40]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - ROOT/tmp/bake/Bake-Element-form-ctp.php, line 40
+Bake\View\BakeView::_evaluate() - ROOT/vendor/cakephp/bake/src/View/BakeView.php, line 199
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::_renderElement() - CORE/src/View/View.php, line 1329
+Cake\View\View::element() - CORE/src/View/View.php, line 493
+include - ROOT/tmp/bake/add-ctp.php, line 16
+Bake\View\BakeView::_evaluate() - ROOT/vendor/cakephp/bake/src/View/BakeView.php, line 199
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Bake\View\BakeView::render() - ROOT/vendor/cakephp/bake/src/View/BakeView.php, line 136
+Bake\Shell\Task\BakeTemplateTask::generate() - ROOT/vendor/cakephp/bake/src/Shell/Task/BakeTemplateTask.php, line 89
+Bake\Shell\Task\TemplateTask::getContent() - ROOT/vendor/cakephp/bake/src/Shell/Task/TemplateTask.php, line 413
+Bake\Shell\Task\TemplateTask::main() - ROOT/vendor/cakephp/bake/src/Shell/Task/TemplateTask.php, line 151
+Bake\Shell\BakeShell::Bake\Shell\{closure}() - ROOT/vendor/cakephp/bake/src/Shell/BakeShell.php, line 252
+Cake\Collection\Collection::each() - CORE/src/Collection/CollectionTrait.php, line 51
+Bake\Shell\BakeShell::all() - ROOT/vendor/cakephp/bake/src/Shell/BakeShell.php, line 253
+Cake\Console\Shell::runCommand() - CORE/src/Console/Shell.php, line 444
+Cake\Console\ShellDispatcher::_dispatch() - CORE/src/Console/ShellDispatcher.php, line 217
+Cake\Console\ShellDispatcher::dispatch() - CORE/src/Console/ShellDispatcher.php, line 181
+Cake\Console\ShellDispatcher::run() - CORE/src/Console/ShellDispatcher.php, line 127
+[main] - ROOT/bin/cake.php, line 33
+
+
+
+2016-06-22 20:07:56 Notice: Notice (8): Undefined variable: details in [/var/www/html/deasoft/tmp/bake/Bake-Element-form-ctp.php, line 39]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - ROOT/tmp/bake/Bake-Element-form-ctp.php, line 39
+Bake\View\BakeView::_evaluate() - ROOT/vendor/cakephp/bake/src/View/BakeView.php, line 199
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::_renderElement() - CORE/src/View/View.php, line 1329
+Cake\View\View::element() - CORE/src/View/View.php, line 493
+include - ROOT/tmp/bake/edit-ctp.php, line 16
+Bake\View\BakeView::_evaluate() - ROOT/vendor/cakephp/bake/src/View/BakeView.php, line 199
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Bake\View\BakeView::render() - ROOT/vendor/cakephp/bake/src/View/BakeView.php, line 136
+Bake\Shell\Task\BakeTemplateTask::generate() - ROOT/vendor/cakephp/bake/src/Shell/Task/BakeTemplateTask.php, line 89
+Bake\Shell\Task\TemplateTask::getContent() - ROOT/vendor/cakephp/bake/src/Shell/Task/TemplateTask.php, line 413
+Bake\Shell\Task\TemplateTask::main() - ROOT/vendor/cakephp/bake/src/Shell/Task/TemplateTask.php, line 151
+Bake\Shell\BakeShell::Bake\Shell\{closure}() - ROOT/vendor/cakephp/bake/src/Shell/BakeShell.php, line 252
+Cake\Collection\Collection::each() - CORE/src/Collection/CollectionTrait.php, line 51
+Bake\Shell\BakeShell::all() - ROOT/vendor/cakephp/bake/src/Shell/BakeShell.php, line 253
+Cake\Console\Shell::runCommand() - CORE/src/Console/Shell.php, line 444
+Cake\Console\ShellDispatcher::_dispatch() - CORE/src/Console/ShellDispatcher.php, line 217
+Cake\Console\ShellDispatcher::dispatch() - CORE/src/Console/ShellDispatcher.php, line 181
+Cake\Console\ShellDispatcher::run() - CORE/src/Console/ShellDispatcher.php, line 127
+[main] - ROOT/bin/cake.php, line 33
+
+
+
+2016-06-22 20:07:56 Notice: Notice (8): Undefined variable: alias in [/var/www/html/deasoft/tmp/bake/Bake-Element-form-ctp.php, line 40]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - ROOT/tmp/bake/Bake-Element-form-ctp.php, line 40
+Bake\View\BakeView::_evaluate() - ROOT/vendor/cakephp/bake/src/View/BakeView.php, line 199
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::_renderElement() - CORE/src/View/View.php, line 1329
+Cake\View\View::element() - CORE/src/View/View.php, line 493
+include - ROOT/tmp/bake/edit-ctp.php, line 16
+Bake\View\BakeView::_evaluate() - ROOT/vendor/cakephp/bake/src/View/BakeView.php, line 199
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Bake\View\BakeView::render() - ROOT/vendor/cakephp/bake/src/View/BakeView.php, line 136
+Bake\Shell\Task\BakeTemplateTask::generate() - ROOT/vendor/cakephp/bake/src/Shell/Task/BakeTemplateTask.php, line 89
+Bake\Shell\Task\TemplateTask::getContent() - ROOT/vendor/cakephp/bake/src/Shell/Task/TemplateTask.php, line 413
+Bake\Shell\Task\TemplateTask::main() - ROOT/vendor/cakephp/bake/src/Shell/Task/TemplateTask.php, line 151
+Bake\Shell\BakeShell::Bake\Shell\{closure}() - ROOT/vendor/cakephp/bake/src/Shell/BakeShell.php, line 252
+Cake\Collection\Collection::each() - CORE/src/Collection/CollectionTrait.php, line 51
+Bake\Shell\BakeShell::all() - ROOT/vendor/cakephp/bake/src/Shell/BakeShell.php, line 253
+Cake\Console\Shell::runCommand() - CORE/src/Console/Shell.php, line 444
+Cake\Console\ShellDispatcher::_dispatch() - CORE/src/Console/ShellDispatcher.php, line 217
+Cake\Console\ShellDispatcher::dispatch() - CORE/src/Console/ShellDispatcher.php, line 181
+Cake\Console\ShellDispatcher::run() - CORE/src/Console/ShellDispatcher.php, line 127
+[main] - ROOT/bin/cake.php, line 33
+
+
+
+2016-06-22 20:07:56 Notice: Notice (8): Undefined variable: details in [/var/www/html/deasoft/tmp/bake/Bake-Element-form-ctp.php, line 40]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - ROOT/tmp/bake/Bake-Element-form-ctp.php, line 40
+Bake\View\BakeView::_evaluate() - ROOT/vendor/cakephp/bake/src/View/BakeView.php, line 199
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::_renderElement() - CORE/src/View/View.php, line 1329
+Cake\View\View::element() - CORE/src/View/View.php, line 493
+include - ROOT/tmp/bake/edit-ctp.php, line 16
+Bake\View\BakeView::_evaluate() - ROOT/vendor/cakephp/bake/src/View/BakeView.php, line 199
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Bake\View\BakeView::render() - ROOT/vendor/cakephp/bake/src/View/BakeView.php, line 136
+Bake\Shell\Task\BakeTemplateTask::generate() - ROOT/vendor/cakephp/bake/src/Shell/Task/BakeTemplateTask.php, line 89
+Bake\Shell\Task\TemplateTask::getContent() - ROOT/vendor/cakephp/bake/src/Shell/Task/TemplateTask.php, line 413
+Bake\Shell\Task\TemplateTask::main() - ROOT/vendor/cakephp/bake/src/Shell/Task/TemplateTask.php, line 151
+Bake\Shell\BakeShell::Bake\Shell\{closure}() - ROOT/vendor/cakephp/bake/src/Shell/BakeShell.php, line 252
+Cake\Collection\Collection::each() - CORE/src/Collection/CollectionTrait.php, line 51
+Bake\Shell\BakeShell::all() - ROOT/vendor/cakephp/bake/src/Shell/BakeShell.php, line 253
+Cake\Console\Shell::runCommand() - CORE/src/Console/Shell.php, line 444
+Cake\Console\ShellDispatcher::_dispatch() - CORE/src/Console/ShellDispatcher.php, line 217
+Cake\Console\ShellDispatcher::dispatch() - CORE/src/Console/ShellDispatcher.php, line 181
+Cake\Console\ShellDispatcher::run() - CORE/src/Console/ShellDispatcher.php, line 127
+[main] - ROOT/bin/cake.php, line 33
+
+
+
+2016-06-22 20:09:41 Notice: Notice (8): Undefined variable: alias in [/var/www/html/deasoft/tmp/bake/Bake-Element-form-ctp.php, line 39]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - ROOT/tmp/bake/Bake-Element-form-ctp.php, line 39
+Bake\View\BakeView::_evaluate() - ROOT/vendor/cakephp/bake/src/View/BakeView.php, line 199
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::_renderElement() - CORE/src/View/View.php, line 1329
+Cake\View\View::element() - CORE/src/View/View.php, line 493
+include - ROOT/tmp/bake/add-ctp.php, line 16
+Bake\View\BakeView::_evaluate() - ROOT/vendor/cakephp/bake/src/View/BakeView.php, line 199
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Bake\View\BakeView::render() - ROOT/vendor/cakephp/bake/src/View/BakeView.php, line 136
+Bake\Shell\Task\BakeTemplateTask::generate() - ROOT/vendor/cakephp/bake/src/Shell/Task/BakeTemplateTask.php, line 89
+Bake\Shell\Task\TemplateTask::getContent() - ROOT/vendor/cakephp/bake/src/Shell/Task/TemplateTask.php, line 413
+Bake\Shell\Task\TemplateTask::main() - ROOT/vendor/cakephp/bake/src/Shell/Task/TemplateTask.php, line 151
+Bake\Shell\BakeShell::Bake\Shell\{closure}() - ROOT/vendor/cakephp/bake/src/Shell/BakeShell.php, line 252
+Cake\Collection\Collection::each() - CORE/src/Collection/CollectionTrait.php, line 51
+Bake\Shell\BakeShell::all() - ROOT/vendor/cakephp/bake/src/Shell/BakeShell.php, line 253
+Cake\Console\Shell::runCommand() - CORE/src/Console/Shell.php, line 444
+Cake\Console\ShellDispatcher::_dispatch() - CORE/src/Console/ShellDispatcher.php, line 217
+Cake\Console\ShellDispatcher::dispatch() - CORE/src/Console/ShellDispatcher.php, line 181
+Cake\Console\ShellDispatcher::run() - CORE/src/Console/ShellDispatcher.php, line 127
+[main] - ROOT/bin/cake.php, line 33
+
+
+
+2016-06-22 20:09:41 Notice: Notice (8): Undefined variable: alias in [/var/www/html/deasoft/tmp/bake/Bake-Element-form-ctp.php, line 40]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - ROOT/tmp/bake/Bake-Element-form-ctp.php, line 40
+Bake\View\BakeView::_evaluate() - ROOT/vendor/cakephp/bake/src/View/BakeView.php, line 199
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::_renderElement() - CORE/src/View/View.php, line 1329
+Cake\View\View::element() - CORE/src/View/View.php, line 493
+include - ROOT/tmp/bake/add-ctp.php, line 16
+Bake\View\BakeView::_evaluate() - ROOT/vendor/cakephp/bake/src/View/BakeView.php, line 199
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Bake\View\BakeView::render() - ROOT/vendor/cakephp/bake/src/View/BakeView.php, line 136
+Bake\Shell\Task\BakeTemplateTask::generate() - ROOT/vendor/cakephp/bake/src/Shell/Task/BakeTemplateTask.php, line 89
+Bake\Shell\Task\TemplateTask::getContent() - ROOT/vendor/cakephp/bake/src/Shell/Task/TemplateTask.php, line 413
+Bake\Shell\Task\TemplateTask::main() - ROOT/vendor/cakephp/bake/src/Shell/Task/TemplateTask.php, line 151
+Bake\Shell\BakeShell::Bake\Shell\{closure}() - ROOT/vendor/cakephp/bake/src/Shell/BakeShell.php, line 252
+Cake\Collection\Collection::each() - CORE/src/Collection/CollectionTrait.php, line 51
+Bake\Shell\BakeShell::all() - ROOT/vendor/cakephp/bake/src/Shell/BakeShell.php, line 253
+Cake\Console\Shell::runCommand() - CORE/src/Console/Shell.php, line 444
+Cake\Console\ShellDispatcher::_dispatch() - CORE/src/Console/ShellDispatcher.php, line 217
+Cake\Console\ShellDispatcher::dispatch() - CORE/src/Console/ShellDispatcher.php, line 181
+Cake\Console\ShellDispatcher::run() - CORE/src/Console/ShellDispatcher.php, line 127
+[main] - ROOT/bin/cake.php, line 33
+
+
+
+2016-06-22 20:09:41 Notice: Notice (8): Undefined variable: alias in [/var/www/html/deasoft/tmp/bake/Bake-Element-form-ctp.php, line 39]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - ROOT/tmp/bake/Bake-Element-form-ctp.php, line 39
+Bake\View\BakeView::_evaluate() - ROOT/vendor/cakephp/bake/src/View/BakeView.php, line 199
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::_renderElement() - CORE/src/View/View.php, line 1329
+Cake\View\View::element() - CORE/src/View/View.php, line 493
+include - ROOT/tmp/bake/edit-ctp.php, line 16
+Bake\View\BakeView::_evaluate() - ROOT/vendor/cakephp/bake/src/View/BakeView.php, line 199
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Bake\View\BakeView::render() - ROOT/vendor/cakephp/bake/src/View/BakeView.php, line 136
+Bake\Shell\Task\BakeTemplateTask::generate() - ROOT/vendor/cakephp/bake/src/Shell/Task/BakeTemplateTask.php, line 89
+Bake\Shell\Task\TemplateTask::getContent() - ROOT/vendor/cakephp/bake/src/Shell/Task/TemplateTask.php, line 413
+Bake\Shell\Task\TemplateTask::main() - ROOT/vendor/cakephp/bake/src/Shell/Task/TemplateTask.php, line 151
+Bake\Shell\BakeShell::Bake\Shell\{closure}() - ROOT/vendor/cakephp/bake/src/Shell/BakeShell.php, line 252
+Cake\Collection\Collection::each() - CORE/src/Collection/CollectionTrait.php, line 51
+Bake\Shell\BakeShell::all() - ROOT/vendor/cakephp/bake/src/Shell/BakeShell.php, line 253
+Cake\Console\Shell::runCommand() - CORE/src/Console/Shell.php, line 444
+Cake\Console\ShellDispatcher::_dispatch() - CORE/src/Console/ShellDispatcher.php, line 217
+Cake\Console\ShellDispatcher::dispatch() - CORE/src/Console/ShellDispatcher.php, line 181
+Cake\Console\ShellDispatcher::run() - CORE/src/Console/ShellDispatcher.php, line 127
+[main] - ROOT/bin/cake.php, line 33
+
+
+
+2016-06-22 20:09:41 Notice: Notice (8): Undefined variable: alias in [/var/www/html/deasoft/tmp/bake/Bake-Element-form-ctp.php, line 40]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - ROOT/tmp/bake/Bake-Element-form-ctp.php, line 40
+Bake\View\BakeView::_evaluate() - ROOT/vendor/cakephp/bake/src/View/BakeView.php, line 199
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::_renderElement() - CORE/src/View/View.php, line 1329
+Cake\View\View::element() - CORE/src/View/View.php, line 493
+include - ROOT/tmp/bake/edit-ctp.php, line 16
+Bake\View\BakeView::_evaluate() - ROOT/vendor/cakephp/bake/src/View/BakeView.php, line 199
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Bake\View\BakeView::render() - ROOT/vendor/cakephp/bake/src/View/BakeView.php, line 136
+Bake\Shell\Task\BakeTemplateTask::generate() - ROOT/vendor/cakephp/bake/src/Shell/Task/BakeTemplateTask.php, line 89
+Bake\Shell\Task\TemplateTask::getContent() - ROOT/vendor/cakephp/bake/src/Shell/Task/TemplateTask.php, line 413
+Bake\Shell\Task\TemplateTask::main() - ROOT/vendor/cakephp/bake/src/Shell/Task/TemplateTask.php, line 151
+Bake\Shell\BakeShell::Bake\Shell\{closure}() - ROOT/vendor/cakephp/bake/src/Shell/BakeShell.php, line 252
+Cake\Collection\Collection::each() - CORE/src/Collection/CollectionTrait.php, line 51
+Bake\Shell\BakeShell::all() - ROOT/vendor/cakephp/bake/src/Shell/BakeShell.php, line 253
+Cake\Console\Shell::runCommand() - CORE/src/Console/Shell.php, line 444
+Cake\Console\ShellDispatcher::_dispatch() - CORE/src/Console/ShellDispatcher.php, line 217
+Cake\Console\ShellDispatcher::dispatch() - CORE/src/Console/ShellDispatcher.php, line 181
+Cake\Console\ShellDispatcher::run() - CORE/src/Console/ShellDispatcher.php, line 127
+[main] - ROOT/bin/cake.php, line 33
+
+
+
+2016-06-22 20:10:23 Notice: Notice (8): Undefined variable: alias in [/var/www/html/deasoft/tmp/bake/Bake-Element-form-ctp.php, line 39]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - ROOT/tmp/bake/Bake-Element-form-ctp.php, line 39
+Bake\View\BakeView::_evaluate() - ROOT/vendor/cakephp/bake/src/View/BakeView.php, line 199
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::_renderElement() - CORE/src/View/View.php, line 1329
+Cake\View\View::element() - CORE/src/View/View.php, line 493
+include - ROOT/tmp/bake/add-ctp.php, line 16
+Bake\View\BakeView::_evaluate() - ROOT/vendor/cakephp/bake/src/View/BakeView.php, line 199
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Bake\View\BakeView::render() - ROOT/vendor/cakephp/bake/src/View/BakeView.php, line 136
+Bake\Shell\Task\BakeTemplateTask::generate() - ROOT/vendor/cakephp/bake/src/Shell/Task/BakeTemplateTask.php, line 89
+Bake\Shell\Task\TemplateTask::getContent() - ROOT/vendor/cakephp/bake/src/Shell/Task/TemplateTask.php, line 413
+Bake\Shell\Task\TemplateTask::main() - ROOT/vendor/cakephp/bake/src/Shell/Task/TemplateTask.php, line 151
+Bake\Shell\BakeShell::Bake\Shell\{closure}() - ROOT/vendor/cakephp/bake/src/Shell/BakeShell.php, line 252
+Cake\Collection\Collection::each() - CORE/src/Collection/CollectionTrait.php, line 51
+Bake\Shell\BakeShell::all() - ROOT/vendor/cakephp/bake/src/Shell/BakeShell.php, line 253
+Cake\Console\Shell::runCommand() - CORE/src/Console/Shell.php, line 444
+Cake\Console\ShellDispatcher::_dispatch() - CORE/src/Console/ShellDispatcher.php, line 217
+Cake\Console\ShellDispatcher::dispatch() - CORE/src/Console/ShellDispatcher.php, line 181
+Cake\Console\ShellDispatcher::run() - CORE/src/Console/ShellDispatcher.php, line 127
+[main] - ROOT/bin/cake.php, line 33
+
+
+
+2016-06-22 20:10:23 Notice: Notice (8): Undefined variable: alias in [/var/www/html/deasoft/tmp/bake/Bake-Element-form-ctp.php, line 40]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - ROOT/tmp/bake/Bake-Element-form-ctp.php, line 40
+Bake\View\BakeView::_evaluate() - ROOT/vendor/cakephp/bake/src/View/BakeView.php, line 199
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::_renderElement() - CORE/src/View/View.php, line 1329
+Cake\View\View::element() - CORE/src/View/View.php, line 493
+include - ROOT/tmp/bake/add-ctp.php, line 16
+Bake\View\BakeView::_evaluate() - ROOT/vendor/cakephp/bake/src/View/BakeView.php, line 199
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Bake\View\BakeView::render() - ROOT/vendor/cakephp/bake/src/View/BakeView.php, line 136
+Bake\Shell\Task\BakeTemplateTask::generate() - ROOT/vendor/cakephp/bake/src/Shell/Task/BakeTemplateTask.php, line 89
+Bake\Shell\Task\TemplateTask::getContent() - ROOT/vendor/cakephp/bake/src/Shell/Task/TemplateTask.php, line 413
+Bake\Shell\Task\TemplateTask::main() - ROOT/vendor/cakephp/bake/src/Shell/Task/TemplateTask.php, line 151
+Bake\Shell\BakeShell::Bake\Shell\{closure}() - ROOT/vendor/cakephp/bake/src/Shell/BakeShell.php, line 252
+Cake\Collection\Collection::each() - CORE/src/Collection/CollectionTrait.php, line 51
+Bake\Shell\BakeShell::all() - ROOT/vendor/cakephp/bake/src/Shell/BakeShell.php, line 253
+Cake\Console\Shell::runCommand() - CORE/src/Console/Shell.php, line 444
+Cake\Console\ShellDispatcher::_dispatch() - CORE/src/Console/ShellDispatcher.php, line 217
+Cake\Console\ShellDispatcher::dispatch() - CORE/src/Console/ShellDispatcher.php, line 181
+Cake\Console\ShellDispatcher::run() - CORE/src/Console/ShellDispatcher.php, line 127
+[main] - ROOT/bin/cake.php, line 33
+
+
+
+2016-06-22 20:10:23 Notice: Notice (8): Undefined variable: alias in [/var/www/html/deasoft/tmp/bake/Bake-Element-form-ctp.php, line 39]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - ROOT/tmp/bake/Bake-Element-form-ctp.php, line 39
+Bake\View\BakeView::_evaluate() - ROOT/vendor/cakephp/bake/src/View/BakeView.php, line 199
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::_renderElement() - CORE/src/View/View.php, line 1329
+Cake\View\View::element() - CORE/src/View/View.php, line 493
+include - ROOT/tmp/bake/edit-ctp.php, line 16
+Bake\View\BakeView::_evaluate() - ROOT/vendor/cakephp/bake/src/View/BakeView.php, line 199
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Bake\View\BakeView::render() - ROOT/vendor/cakephp/bake/src/View/BakeView.php, line 136
+Bake\Shell\Task\BakeTemplateTask::generate() - ROOT/vendor/cakephp/bake/src/Shell/Task/BakeTemplateTask.php, line 89
+Bake\Shell\Task\TemplateTask::getContent() - ROOT/vendor/cakephp/bake/src/Shell/Task/TemplateTask.php, line 413
+Bake\Shell\Task\TemplateTask::main() - ROOT/vendor/cakephp/bake/src/Shell/Task/TemplateTask.php, line 151
+Bake\Shell\BakeShell::Bake\Shell\{closure}() - ROOT/vendor/cakephp/bake/src/Shell/BakeShell.php, line 252
+Cake\Collection\Collection::each() - CORE/src/Collection/CollectionTrait.php, line 51
+Bake\Shell\BakeShell::all() - ROOT/vendor/cakephp/bake/src/Shell/BakeShell.php, line 253
+Cake\Console\Shell::runCommand() - CORE/src/Console/Shell.php, line 444
+Cake\Console\ShellDispatcher::_dispatch() - CORE/src/Console/ShellDispatcher.php, line 217
+Cake\Console\ShellDispatcher::dispatch() - CORE/src/Console/ShellDispatcher.php, line 181
+Cake\Console\ShellDispatcher::run() - CORE/src/Console/ShellDispatcher.php, line 127
+[main] - ROOT/bin/cake.php, line 33
+
+
+
+2016-06-22 20:10:23 Notice: Notice (8): Undefined variable: alias in [/var/www/html/deasoft/tmp/bake/Bake-Element-form-ctp.php, line 40]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - ROOT/tmp/bake/Bake-Element-form-ctp.php, line 40
+Bake\View\BakeView::_evaluate() - ROOT/vendor/cakephp/bake/src/View/BakeView.php, line 199
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::_renderElement() - CORE/src/View/View.php, line 1329
+Cake\View\View::element() - CORE/src/View/View.php, line 493
+include - ROOT/tmp/bake/edit-ctp.php, line 16
+Bake\View\BakeView::_evaluate() - ROOT/vendor/cakephp/bake/src/View/BakeView.php, line 199
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Bake\View\BakeView::render() - ROOT/vendor/cakephp/bake/src/View/BakeView.php, line 136
+Bake\Shell\Task\BakeTemplateTask::generate() - ROOT/vendor/cakephp/bake/src/Shell/Task/BakeTemplateTask.php, line 89
+Bake\Shell\Task\TemplateTask::getContent() - ROOT/vendor/cakephp/bake/src/Shell/Task/TemplateTask.php, line 413
+Bake\Shell\Task\TemplateTask::main() - ROOT/vendor/cakephp/bake/src/Shell/Task/TemplateTask.php, line 151
+Bake\Shell\BakeShell::Bake\Shell\{closure}() - ROOT/vendor/cakephp/bake/src/Shell/BakeShell.php, line 252
+Cake\Collection\Collection::each() - CORE/src/Collection/CollectionTrait.php, line 51
+Bake\Shell\BakeShell::all() - ROOT/vendor/cakephp/bake/src/Shell/BakeShell.php, line 253
+Cake\Console\Shell::runCommand() - CORE/src/Console/Shell.php, line 444
+Cake\Console\ShellDispatcher::_dispatch() - CORE/src/Console/ShellDispatcher.php, line 217
+Cake\Console\ShellDispatcher::dispatch() - CORE/src/Console/ShellDispatcher.php, line 181
+Cake\Console\ShellDispatcher::run() - CORE/src/Console/ShellDispatcher.php, line 127
+[main] - ROOT/bin/cake.php, line 33
+
+
+

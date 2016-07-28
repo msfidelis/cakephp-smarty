@@ -1,0 +1,22 @@
+2016-05-14 03:16:35 Error: [Cake\Database\Exception] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'deasoft.agendamentos' doesn't exist
+Stack Trace:
+#0 /var/www/html/deasoft/vendor/cakephp/cakephp/src/Database/Schema/Collection.php(96): Cake\Database\Schema\Collection->_reflect('Column', 'agendamentos', Array, Object(Cake\Database\Schema\Table))
+#1 /var/www/html/deasoft/vendor/cakephp/cakephp/src/Database/Schema/CachedCollection.php(64): Cake\Database\Schema\Collection->describe('agendamentos', Array)
+#2 /var/www/html/deasoft/vendor/cakephp/cakephp/src/ORM/Table.php(429): Cake\Database\Schema\CachedCollection->describe('agendamentos')
+#3 /var/www/html/deasoft/vendor/cakephp/cakephp/src/ORM/Table.php(505): Cake\ORM\Table->schema()
+#4 /var/www/html/deasoft/vendor/cakephp/bake/src/Shell/Task/ModelTask.php(206): Cake\ORM\Table->primaryKey()
+#5 /var/www/html/deasoft/vendor/cakephp/bake/src/Shell/Task/ModelTask.php(124): Bake\Shell\Task\ModelTask->getAssociations(Object(Cake\ORM\Table))
+#6 /var/www/html/deasoft/vendor/cakephp/bake/src/Shell/Task/ModelTask.php(109): Bake\Shell\Task\ModelTask->getTableContext(Object(Cake\ORM\Table), 'agendamentos', 'Agendamentos')
+#7 /var/www/html/deasoft/vendor/cakephp/bake/src/Shell/Task/ModelTask.php(96): Bake\Shell\Task\ModelTask->bake('Agendamentos')
+#8 /var/www/html/deasoft/vendor/cakephp/bake/src/Shell/BakeShell.php(250): Bake\Shell\Task\ModelTask->main('Agendamentos')
+#9 /var/www/html/deasoft/vendor/cakephp/cakephp/src/Collection/CollectionTrait.php(51): Bake\Shell\BakeShell->Bake\Shell\{closure}('agendamentos', 0)
+#10 /var/www/html/deasoft/vendor/cakephp/bake/src/Shell/BakeShell.php(253): Cake\Collection\Collection->each(Object(Closure))
+#11 [internal function]: Bake\Shell\BakeShell->all('agendamentos')
+#12 /var/www/html/deasoft/vendor/cakephp/cakephp/src/Console/Shell.php(444): call_user_func_array(Array, Array)
+#13 /var/www/html/deasoft/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php(217): Cake\Console\Shell->runCommand(Array, true, Array)
+#14 /var/www/html/deasoft/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php(181): Cake\Console\ShellDispatcher->_dispatch(Array)
+#15 /var/www/html/deasoft/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php(127): Cake\Console\ShellDispatcher->dispatch(Array)
+#16 /var/www/html/deasoft/bin/cake.php(33): Cake\Console\ShellDispatcher::run(Array)
+#17 {main}
+
+
