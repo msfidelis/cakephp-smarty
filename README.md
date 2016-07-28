@@ -10,6 +10,8 @@ My Personal CakePHP Core
 * PHPUnit
 * CodeSniffer
 * PHP Mailer
+* Google Charts
+* Google Maps
 
 
 #Instalação dos Exemplos
